@@ -24,16 +24,16 @@
 </div>
 
 <div id="socials" align="center" style="margin-top: 20px">
-  <a href="https://t.me/monresu">
+  <a href="https://t.me/monresu" style="text-decoration: none">
     <img src="https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" style="border-radius: 10px">
   </a>
-  <a href="https://www.youtube.com/channel/UCV75tH4CVesf0UEad1BIF4A">
+  <a href="https://www.youtube.com/channel/UCV75tH4CVesf0UEad1BIF4A" style="text-decoration: none">
     <img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 10px">
   </a>
-  <a href="https://vk.com/usernom1">
+  <a href="https://vk.com/usernom1" style="text-decoration: none">
     <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" style="border-radius: 10px">
   </a>
-  <a href="tgmonresu@gmail.com">
+  <a href="tgmonresu@gmail.com" style="text-decoration: none">
     <img src="https://img.shields.io/badge/gmail-lightgreen?style=for-the-badge&logo=gmail&logoColor=red" style="border-radius: 10px">
   </a>
 </div>
