@@ -4,7 +4,7 @@
   <h3>FrontEnd Developer</h3>
 </div>
 
-<div>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="70" height="70"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="70" height="70"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="70" height="70"/>&nbsp;
@@ -23,17 +23,3 @@
   • 🌍 I have an English level of B1
 </div>
 
-<div id="socials" align="center" style="margin-top: 20px">
-  <a href="https://t.me/monresu" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" style="border-radius: 10px">
-  </a>
-  <a href="https://www.youtube.com/channel/UCV75tH4CVesf0UEad1BIF4A" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 10px">
-  </a>
-  <a href="https://vk.com/usernom1" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" style="border-radius: 10px">
-  </a>
-  <a href="tgmonresu@gmail.com" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/gmail-lightgreen?style=for-the-badge&logo=gmail&logoColor=red" style="border-radius: 10px">
-  </a>
-</div>
