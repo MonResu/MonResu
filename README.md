@@ -1,6 +1,5 @@
 
 <div id="header" align="center">
-  <h1>Anastasia MonResu</h1>
   <h3>Backend && Frontend</h3>
 </div>
 
